@@ -23,9 +23,8 @@ export const links = {
   email: "dipeshshah227@gmail.com",
   phone: "+977 9843804246",
   phoneHref: "tel:+9779843804246",
-  // TODO: replace with your real profile URLs
-  github: "https://github.com/your-username",
-  linkedin: "https://www.linkedin.com/in/your-username",
+  github: "https://github.com/dipeshshah27",
+  linkedin: "https://www.linkedin.com/in/dipesh-shah72/",
 };
 
 export const manifesto =
