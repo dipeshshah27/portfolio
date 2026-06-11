@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- favicon version of the navbar wordmark: dark pill, cream "ds", teal dot.
+       Fraunces isn't loadable from a favicon, so Georgia italic stands in —
+       at 16-32px the difference is invisible. -->
+  <rect width="64" height="64" rx="16" fill="#06080d" />
+  <text
+    x="30"
+    y="44"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-style="italic"
+    font-weight="600"
+    font-size="34"
+    fill="#eae7e0"
+  >ds<tspan fill="#2dd4bf">.</tspan></text>
+</svg>
